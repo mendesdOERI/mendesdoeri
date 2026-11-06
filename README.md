@@ -4,7 +4,7 @@
 
 ### CIÊNCIA DA COMPUTAÇÃO | TECNOLOGIA | INOVAÇÃO
 
-<img src="banner-pedro.png" width="100%" alt="Pedro Mendes">
+<img src="[banner-pedro.png" width="100%" alt=](https://chatgpt.com/s/m_6aee05ccf5748191af9c8db29cf8241a)"Pedro Mendes">
 
 </div>
 
